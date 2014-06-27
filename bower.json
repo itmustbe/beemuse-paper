@@ -1,0 +1,20 @@
+{
+  "name": "beemuse-paper",
+  "version": "0.0.0",
+  "authors": [
+    "Elise <elise@itmustbe.com>"
+  ],
+  "description": "realistic 3d paper effects",
+  "main": "dist/paper.css",
+  "keywords": [
+    "scss",
+    "css",
+    "3d",
+    "paper"
+  ],
+  "license": "MIT",
+  "homepage": "http://beemuse.com",
+  "ignore": [
+    "**/.*"
+  ]
+}
